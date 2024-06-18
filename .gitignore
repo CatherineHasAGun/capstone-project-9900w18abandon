@@ -1,0 +1,4 @@
+backend/.idea
+__pycache__/
+backend/.venv
+backend/flask_session
